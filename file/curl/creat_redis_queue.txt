@@ -1,0 +1,8 @@
+curl --location 'http://localhost:8089/redis/process/create/queue' \
+--header 'Content-Type: application/json' \
+--data '{
+    "method" : "POST", 
+    "url": "http://localhost:8080/payment-process/BCA12345",
+    "payload" : "",
+    "key" : "task_first"
+}'
