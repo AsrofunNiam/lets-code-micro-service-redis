@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/model/domain"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/model/domain"
 	"github.com/redis/go-redis/v9"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

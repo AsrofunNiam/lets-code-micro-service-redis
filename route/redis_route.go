@@ -1,9 +1,9 @@
 package route
 
 import (
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/controller"
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/repository"
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/service"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/controller"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/repository"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/service"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"
 	"github.com/redis/go-redis/v9"

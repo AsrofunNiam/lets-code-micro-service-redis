@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/model/domain"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/model/domain"
 	"github.com/redis/go-redis/v9"
 )
 

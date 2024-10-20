@@ -1,7 +1,7 @@
 package app
 
 import (
-	route "github.com/AsrofunNiam/lets-code-micro-service_redis/route"
+	route "github.com/AsrofunNiam/lets-code-micro-service-redis/route"
 	"github.com/gin-gonic/gin"
 	"github.com/go-playground/validator/v10"
 	"github.com/redis/go-redis/v9"

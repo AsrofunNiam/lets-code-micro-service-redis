@@ -5,9 +5,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/app"
-	c "github.com/AsrofunNiam/lets-code-micro-service_redis/configuration"
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/helper"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/app"
+	c "github.com/AsrofunNiam/lets-code-micro-service-redis/configuration"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/helper"
 	"github.com/go-playground/validator/v10"
 )
 

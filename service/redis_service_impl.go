@@ -10,9 +10,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/helper"
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/model/domain"
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/repository"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/helper"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/model/domain"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/repository"
 	"github.com/go-playground/validator/v10"
 	"github.com/redis/go-redis/v9"
 	"gorm.io/gorm"

@@ -1,8 +1,8 @@
 package repository
 
 import (
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/helper"
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/model/domain"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/helper"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/model/domain"
 	"gorm.io/gorm"
 )
 

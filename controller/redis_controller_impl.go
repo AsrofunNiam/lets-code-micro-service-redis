@@ -3,9 +3,9 @@ package controller
 import (
 	"net/http"
 
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/helper"
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/model/web"
-	"github.com/AsrofunNiam/lets-code-micro-service_redis/service"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/helper"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/model/web"
+	"github.com/AsrofunNiam/lets-code-micro-service-redis/service"
 	"github.com/gin-gonic/gin"
 )
 
